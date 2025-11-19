@@ -1,0 +1,5 @@
+Restaurante_Fast_Food BurguerKing Aveiro 32.124587,45.673412 4 7200.50 45 35 23 45.23 11 23.78
+Restaurante_Local Honorato Coimbra 89.342356,12.567275 20 7500.00 54 310 20 15 54.20 32.10
+Café Delta Aveiro 41.23344,2.13456 34 6000.50 45 35 10.34
+Pastelaria Recheadão Lisboa 1.456782,23.452315 13 5400.00 37 6 34.56
+Café Expresso Porto 34.231234,22.357890 56 6500.00 123 105 200.13
